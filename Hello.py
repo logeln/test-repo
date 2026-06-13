@@ -1,1 +1,2 @@
-ptint('Hello')
+print('Hello')
+print('World')
